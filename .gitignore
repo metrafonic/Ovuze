@@ -1,0 +1,7 @@
+node_modules/
+.meteor/local
+.meteor/meteorite
+_site
+*.log
+/data
+
